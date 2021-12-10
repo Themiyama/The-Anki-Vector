@@ -1,13 +1,13 @@
 {
-      "name": "The Anki Vector",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "Themiya madushanka",
+      "description": "Live stream bot on Madushanka",
       "logo": "https://telegra.ph/file/e10a45d0433a1ab6fed7b.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Ankivector"
+         "Madushanka"
       ],   
    "repository": "https://github.com/Damantha126/The-Anki-Vector",
    "addons": [
